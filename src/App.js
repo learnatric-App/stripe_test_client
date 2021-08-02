@@ -1,5 +1,5 @@
 import React from "react";
-import StripeContainer from "./Stripe/StripeContainer";
+import StripeContainer from "./StripeContainer";
 
 const App = () => {
   return (
